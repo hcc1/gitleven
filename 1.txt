@@ -8,3 +8,6 @@ third  add myname is haha
 
 
 forth  add iam 12
+
+this is add to stage
+
